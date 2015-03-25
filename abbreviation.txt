@@ -1,0 +1,5 @@
+# abbreviation in German 德语中的缩写
+
+ins : in das 在...里，到...去 eg. Sie geht ins Kaufhaus. 她去百货商店。
+im : in dem eg. im Januar 在一月 (dem 是der的第三格)
+am : an dem 在...旁边 eg. Sie sitzt am Tisch. 她坐在桌子旁边。

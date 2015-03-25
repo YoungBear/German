@@ -1,0 +1,12 @@
+#Article in German 德语中的冠词
+定冠词der的变格
+
+            m/阳性    n/中性    f/阴性    pl/复数
+
+N/第一格    der        das       die       die
+
+D/第三格    dem        dem       der       den
+
+A/第四格    den        das       die       die
+
+
