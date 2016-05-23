@@ -1,0 +1,26 @@
+#颜色
+德语        汉语解释                英语解释
+
+grau        灰色的                  gray
+
+lila        紫色的                  purple;vioet
+
+rosa        粉红色的                pink;roseate;玫瑰色的
+
+braun       棕色的                  brown
+
+orange      橙色的                  orange
+
+blau        蓝色的                  blue
+
+gelb        黄色的                  yellow
+
+grün        绿色的                  green
+
+blond       金发的                  blond
+
+weiß        白色的                  write
+
+rot         红色的                  red
+
+schwarz     黑色的                  black
