@@ -1,0 +1,30 @@
+#德语中的一些专有名词，如地名等等
+
+#城市名
+Rom            罗马        Rome
+
+Paris          巴黎        Paris
+
+Moskau         莫斯科
+
+New Youk       纽约        New Youk
+
+Peking         北京        Beijing
+
+#国家名
+Frankreich            法国            Franch
+
+Deutschland           德国            Germany
+
+China
+
+Russland              俄罗斯          Russia
+
+Ägypten               埃及            Egypt
+
+Brasilien             巴西            Brazil
+
+Japen
+
+Italien               意大利          Italy
+

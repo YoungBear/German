@@ -1,0 +1,26 @@
+#德语中的名词
+#德语               中文解释        英文解释
+
+das Haar            头发            hair
+
+die Blumen          花
+
+der Stuhl           椅子
+
+die Schüssel        碗
+
+die Familie         家庭，家人
+
+die Wohnung         住房，寓所
+
+das Land            陆地
+
+die Stadt           城市
+
+die Brücke          桥梁
+
+der Park            公园
+
+die Straße          道路，街道
+
+der Baum            树

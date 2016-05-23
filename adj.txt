@@ -1,0 +1,9 @@
+#形容词
+            中文解释        英文解释
+warm        温暖的;热的     warm
+
+kalt        冷的            cold
+
+krank       生病的          
+
+müde        累的;疲乏的
