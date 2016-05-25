@@ -1,0 +1,23 @@
+#代词
+
+#物主代词第一格
+
+对应人称代词第一格        阳性m         中性n        阴性f         复数pl.
+
+ich 我                    mein          mein         meine         meine
+
+du  你                    dein          dein         deine         deine
+
+er  他                    sein          sein         seine         seine
+
+sie 她                    ihr           ihr          ihre          ihre
+
+es  它                    sein          sein         seine         seine
+
+wir 我们                  unser         unser        unsere        unsere
+
+ihr 你们                  euer          euer         eure          eure
+
+sie 他们                  ihr           ihr          ihre          ihre
+
+Sie 您，您们              Ihr           Ihr          Ihre          Ihre

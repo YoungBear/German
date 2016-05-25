@@ -24,3 +24,25 @@ der Park            公园
 die Straße          道路，街道
 
 der Baum            树
+
+der Pullover        毛衣            sweater
+
+die Jeans           牛仔裤          jeans
+
+der Gürtel          皮带            belt
+
+der Anzug           男西装          suit
+
+die Socken          袜子            socks
+
+die Krawatte        领带            tie
+
+das Kleid           连衣裙          dress
+
+der Mantel          大衣            overcoat
+
+die Hose            裤子            trousers,pants
+
+der Rock            裙子            skirt
+
+der Hut             帽子            hat
