@@ -46,3 +46,41 @@ die Hose            裤子            trousers,pants
 der Rock            裙子            skirt
 
 der Hut             帽子            hat
+
+der Krankenhaus     医院            hospital
+
+das Restaurant      餐厅
+
+die Schule          学校            school
+
+das Schlafengehen   就寝，睡觉
+
+das Mittagessen     午饭
+
+das Abendessen      晚餐
+
+die Arbeit          工作
+
+der Gast            客人           guest
+
+der Tag             天
+
+die Woche           星期           week
+
+der Monat           月             month
+
+das Jahr            年             year
+
+Montag              星期一         Monday
+
+Dienstag            星期二         Tuesday
+
+Mittwoch            星期三         Wednesday
+
+Donnerstag          星期四         Thursday
+
+Freitag             星期五         Friday
+
+Samstag             星期六         Saturday
+
+Sonntag             星期日         Sunday
