@@ -28,3 +28,18 @@ Japen
 
 Italien               意大利          Italy
 
+Australien            澳大利亚        Australia
+
+eg.
+In Australien spricht man Englisch.
+在澳大利亚人们讲英语。
+
+
+#语言
+Deutsch               德语            German
+
+Chinesisch            汉语            Chinese
+
+Arabisch              阿拉伯语         Arabic
+
+Englisch              英语             English

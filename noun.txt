@@ -61,7 +61,7 @@ das Abendessen      晚餐
 
 die Arbeit          工作
 
-der Gast            客人           guest
+der Gast            客人           guest        复数 Die Gäste
 
 der Tag             天
 
@@ -84,3 +84,19 @@ Freitag             星期五         Friday
 Samstag             星期六         Saturday
 
 Sonntag             星期日         Sunday
+
+der Frühling        春天           spring
+
+der Sommer          夏天           summer
+
+der Herbst          秋天           autumn;fall
+
+der Winter          冬天           winter
+
+der Fuß             脚，足         foot
+
+Finger              手指           finger
+
+Zehen               脚趾           toe
+
+die Hand            手             hand
