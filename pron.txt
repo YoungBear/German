@@ -21,3 +21,17 @@ ihr 你们                  euer          euer         eure          eure
 sie 他们                  ihr           ihr          ihre          ihre
 
 Sie 您，您们              Ihr           Ihr          Ihre          Ihre
+
+#指示代词
+
+dieser 这，这个
+
+             阳性        中性        阴性        复数
+
+第一格    dieser/der   dieses/das  diese/die   diese/die
+
+第二格    dieses/des   dieses/das  dieser/der  dieser/der
+
+第三格    diesem/dem   diesem/dem  dieser/der  diesen/den
+
+第四格    diesen/den   dieses/das  diese/die   diese/die

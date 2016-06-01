@@ -20,3 +20,7 @@ eg.
 Der Reis schmeckt gut.米饭尝着不错。
 
 besuchen        拜访，上学，参观
+
+unterrichten    教    teach
+
+lernen          学习  learn
