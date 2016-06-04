@@ -100,3 +100,24 @@ Finger              手指           finger
 Zehen               脚趾           toe
 
 die Hand            手             hand
+
+das Gasicht         脸             face
+
+der Zahne           牙齿
+die Zähne pl.
+
+die Zahnbürste      牙刷
+
+die Zahnpasta       牙膏
+
+die Bürste          刷子
+
+die Seife           肥皂
+
+das Handtuch        毛巾
+
+das Kissen          枕头
+
+das Betttuch        床单
+
+die Decke           床罩，被子

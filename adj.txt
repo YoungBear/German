@@ -7,3 +7,13 @@ kalt        冷的            cold
 krank       生病的
 
 müde        累的;疲乏的
+
+trocken     干燥的，干的    dry
+
+nass        潮湿的          wet
+
+sauber      干净的
+
+schmutzig   脏的，不干净的
+
+
