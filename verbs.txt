@@ -30,3 +30,9 @@ wecken          唤醒    wake wecken auf = wake up
 waschen         洗    wash
 
 putzen          刷牙，把...擦干净
+
+kaufen    买    buy
+verkaufen    卖    sell
+
+brauchen    需要    need
+mochten    想要    want

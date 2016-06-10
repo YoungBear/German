@@ -16,4 +16,8 @@ sauber      干净的
 
 schmutzig   脏的，不干净的
 
+kaputter    破碎的,做定语
+kaputt    破碎的,做表语
 
+neu    new
+alt    old

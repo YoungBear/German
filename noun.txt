@@ -121,3 +121,58 @@ das Kissen          枕头
 das Betttuch        床单
 
 die Decke           床罩，被子
+
+das Frühstück    早餐 breakfast
+
+das Mittagessen     午餐    lunch
+
+das Abendessen    晚餐    dinner
+
+das Obst    水果    fruit
+
+das Gemüse    蔬菜    vegetable
+
+das Fleisch    肉    meat
+
+der Schmuck    首饰
+
+die Kleidung    衣服
+
+das Spielzeug    玩具
+
+das Geld    钱
+
+der Regenschirm    雨伞    umbrella
+
+die Eintrittskarte    票，入场券
+
+die Sonnebrille    太阳镜
+dir Brille    眼镜
+
+die Leiter    梯子
+
+das Gechaeft    商店
+die Gechäft pl.
+
+der Supermarkt
+
+der Baumarkt    建筑市场
+
+das Juweliergeschäft    珠宝行，首饰店
+
+die Torte    蛋糕，圆形大蛋糕
+
+der Kuchen    糕点
+
+das Brot    面包
+
+die Schokolade    巧克力    chocolate
+
+die Medikament    药
+
+die Bäckerei    面包店    bakery
+
+die Buchhandlung    书店
+
+die Apotheke    药店
+
