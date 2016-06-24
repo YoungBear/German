@@ -176,13 +176,13 @@ die Buchhandlung    书店
 
 die Apotheke    药店
 
-das Theaterstuck    舞台剧 #windows下输入法没有德语相关字符，晚上修改下
+das Theaterstück    舞台剧 #windows下输入法没有德语相关字符，晚上修改下
 
 das Konzert    音乐会    concert
 
 der Film    电影
 
-FuBball    足球#
+Fußball    足球#
 
 Golf    高尔夫
 
@@ -214,4 +214,4 @@ der Scheck    支票    check
 
 die Kreditkarte    信用卡    credit card
 
-die Munzen    硬币    coin
+die Münzen    硬币    coin
