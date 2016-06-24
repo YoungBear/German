@@ -176,3 +176,42 @@ die Buchhandlung    书店
 
 die Apotheke    药店
 
+das Theaterstuck    舞台剧 #windows下输入法没有德语相关字符，晚上修改下
+
+das Konzert    音乐会    concert
+
+der Film    电影
+
+FuBball    足球#
+
+Golf    高尔夫
+
+Tennis    网球
+
+die Orangen    橘子
+
+der Saft    果汁    juice
+
+der Tee    茶    tea
+
+die Karotte    胡萝卜    carrot
+
+Dollar    美元
+
+Euro    欧元
+
+Pfund    英镑
+
+das Metall    金属    metal
+
+das Holz    木头    wood
+
+das Papier    纸    paper
+
+das Plastik    塑料    plastic
+
+der Scheck    支票    check
+
+die Kreditkarte    信用卡    credit card
+
+die Munzen    硬币    coin

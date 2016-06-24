@@ -21,3 +21,30 @@ kaputt    破碎的,做表语
 
 neu    new
 alt    old
+
+periswert    便宜的    cheap
+teuer    昂贵的    expensive
+
+schwer    重的
+leicht    轻的
+
+schnell    快的
+langsam    慢的
+
+alt    年长的，老的
+jung    年轻的
+
+klein    小的
+kleiner    更小的
+kleinst    最小的
+
+etwas    一点，少量
+einige    少量
+
+viel    许多
+mehr    更多
+meist    最多
+
+wenig    少的
+weinger    更少的
+weingst    最少的
